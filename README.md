@@ -18,6 +18,9 @@ This is a PHP-MySQL-based web application for managing and tracking student atte
 - HTML/CSS
 - Bootstrap
 
+Website Demo:
+https://youtu.be/5KORICtIUQw
+
 Login page:
 ![image](https://github.com/user-attachments/assets/d23a626d-5ba6-4fb1-a5ea-b8b01208a082)
 
